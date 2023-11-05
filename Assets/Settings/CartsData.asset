@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fa5ba5d5c83436db259ccf67458b6e8, type: 3}
+  m_Name: CartsData
+  m_EditorClassIdentifier: 
+  Suits:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  CartForEachSuitCount: 9
+  Backs:
+  - {fileID: 21300000, guid: 5fb9595f8a426a24da4982a2a4ac44a2, type: 3}
+  Faces:
+  - {fileID: 21300000, guid: 1dae68086b5f6d24a95dd2385ef89aa1, type: 3}
+  SuitSprites:
+  - {fileID: 21300000, guid: 810384bc24e7efb489243a51de3b24f8, type: 3}
+  - {fileID: 21300000, guid: 1e4fcd5e9607f4044805dfe7513d70bb, type: 3}
+  - {fileID: 21300000, guid: 04a7e0df818961e4986342f591a189d0, type: 3}
+  - {fileID: 21300000, guid: b9e34a761ee697a41a300b1e13d8b311, type: 3}
+  SuitColors:
+  - Colors:
+    - {r: 0, g: 0.41509432, b: 0.26776987, a: 1}
+    - {r: 0.002828459, g: 0.13207549, b: 0, a: 1}
+    - {r: 0.01904592, g: 0.09433961, b: 0.09198668, a: 1}
+  - Colors:
+    - {r: 1, g: 0.5792022, b: 0, a: 1}
+    - {r: 1, g: 0.28690857, b: 0, a: 1}
+    - {r: 1, g: 0, b: 0.1417799, a: 1}
+  - Colors:
+    - {r: 1, g: 0, b: 0.69731045, a: 1}
+    - {r: 1, g: 0.20396012, b: 0, a: 1}
+    - {r: 0.24528301, g: 0.006914147, b: 0, a: 1}
+  - Colors:
+    - {r: 0.2946575, g: 0, b: 0.3301887, a: 1}
+    - {r: 0.33962262, g: 0, b: 0.27706063, a: 1}
+    - {r: 0.14013359, g: 0, b: 0.2924528, a: 1}
+  EmptySprite: {fileID: 21300000, guid: 7b2320258d76f1c4db53ccf40ed3e2b4, type: 3}
